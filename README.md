@@ -7,12 +7,8 @@ I'm a **Computer Science and Cybersecurity student at Tarleton State University*
 My interests span **full-stack development, API integration, automation, cybersecurity, algorithms, and developer tools**. I enjoy taking projects from an idea or workflow problem through implementation, debugging, and refinement.
 
 - 🎓 Pursuing B.S. degrees in **Computer Science: Software Engineering** and **Cybersecurity**
-- 💼 Web Developer at **PJ's Lawn Care**
-- 🛡️ Former **CyberPatriot Coach** for Granbury MCJROTC
-- 🤖 Former **VEX VIA Robotics Coach**, mentoring 50+ students
 - 📍 Granbury, Texas
 - 🎯 Expected graduation: **December 2027**
-- 💻 Open to **software engineering and cybersecurity opportunities**
 
 ## Featured Project
 
@@ -40,20 +36,6 @@ An interactive web application for visualizing shortest-path algorithms on a gri
 - Built responsive interfaces for mobile and desktop use
 - Integrated the **DeepL Translation API** with Node.js to support multilingual employee communication
 - Used Git, debugging, UI/UX principles, and user feedback to improve reliability and field workflows
-
-### CyberPatriot Coach — Granbury MCJROTC
-**August 2025 – December 2025**
-
-- Coached students in cybersecurity, system hardening, secure configuration, and computer science concepts
-- Created technical presentations and hands-on cybersecurity training materials
-- Mentored a team that qualified for state-level competition
-
-### VEX VIA Coach — Granbury High School Robotics
-**May 2021 – July 2023**
-
-- Led and mentored **50+ students** in robot programming, robotics systems, and mechanical design
-- Taught programming, debugging, testing, teamwork, and iterative problem-solving
-- Guided teams through design and development for state-level competitions
 
 ## Tech Stack
 
